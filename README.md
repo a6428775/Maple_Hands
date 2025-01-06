@@ -6,12 +6,11 @@
 
 ---
 
-## Maple_Hands Links
+## Maple_Hands DOWNLOAD
 
 - [DOWNLOAD 下載載點](https://github.com/a6428775/Maple_Hands/releases/download/v1.0.0/MapleHands_v1.0.0.zip)
+
 - [YouTube 影片示範](待更新)
-- [Discord - Group Chat](https://discord.gg/n6vyDq6TC7)
-- [LINE - OpenChat](https://lin.ee/ln2mZ4Y)
 
 ---
 
@@ -33,19 +32,36 @@
 
 ---
 
-## 價格
+## 第一次註冊享有 3 天試用期，註冊後即開始計算。
+
+## 購買價格
 
 **NT$ 199/月**
 
-- 第一次註冊享有 3 天試用期，註冊後即開始計算。
 - 請詳閱檔案內使用說明，以及試用成效，確認符合預期再購買。
-- 購買後請立即聯絡管理員以開通帳號權限（官方 LINE 或 Discord 群）。
+- 購買後請立即聯絡管理員以開通帳號權限（[官方 LINE](https://lin.ee/ln2mZ4Y) 或 [Discord 群](https://discord.gg/n6vyDq6TC7)）。
 - 月費一律以 30 日計算，購買後無法退貨或更換。
 - 每套軟體僅限一台電腦使用。
-- 加入並且成功開通後，推薦人可免費獲得 5 天時效。
+- 被推薦人加入並且成功開通後，推薦人可免費獲得 5 天時效。
 
 ---
 
+## 必要設定：
+
+
+- 確認解縮縮後的資料夾路徑無中文字符
+
+- 確保防毒軟體將 此程式資料夾 設為信任。
+
+- 如需要自動解輪 遊戲解析度建議設置為 1366x768。(自動解輪的成功率會最高)
+
+- 確保小地圖置於遊戲視窗左上角並且無縮小，技能狀態列（遊戲視窗最上方的那一排）不被遮擋。
+
+- 將 Windows 縮放比例設為 100%。  修改Windows 的「系統 - 顯示器 - 縮放與版面配置 > 100%
+
+- 關閉外部聊天視窗
+
+---
 ## 服務條款與免責聲明
 
 歡迎使用 **Maple_Hands 輔助**（以下簡稱 "本軟體"）。在使用本軟體之前，請您仔細閱讀以下服務條款與免責聲明。一旦使用本軟體，即表示您同意並接受以下條款。
@@ -108,7 +124,9 @@
 
 若您對本服務條款有任何疑問或建議，請聯繫開發者：
 
-- **電子郵件**: [a6428775@gmail.com](mailto:a6428775@gmail.com)
+- [a6428775@gmail.com](mailto:a6428775@gmail.com)
+- [Discord - Group Chat](https://discord.gg/n6vyDq6TC7)
+- [LINE - OpenChat](https://lin.ee/ln2mZ4Y)
 
 ---
 
