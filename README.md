@@ -10,7 +10,7 @@
 
 - [DOWNLOAD 下載載點](https://github.com/a6428775/Maple_Hands/releases/download/v1.0.0/MapleHands_v1.0.0.zip)
 
-- [YouTube 影片示範](待更新)
+- [YouTube 影片示範](https://youtu.be/YN67hKHAJMw)
 
 ---
 
@@ -60,6 +60,30 @@
 - 將 Windows 縮放比例設為 100%。  修改Windows 的「系統 - 顯示器 - 縮放與版面配置 > 100%
 
 - 關閉外部聊天視窗
+
+---
+
+## 關於Arduino Leonardo：
+
+# 很重要：強烈建議一定要使用!!!  
+
+- Arduino Leonardo是一款基於ATmega32u4的微控制器板。
+
+- 這邊不多做介紹，其主要功能在於避免系統測謊。
+
+- 如未使用此工具，系統能迅速的偵測到虛擬按鍵，進一步的測謊玩家。
+
+- 系統測謊的徵兆：地圖輪的箭頭變色，甚至旋轉。此問題會增加自動解輪的難度。
+
+- 經測試，只要使用Arduino Leonardo 可長時間不被系統測謊。
+
+
+- 購買方式：某蝦某皮即可購買到　此處提供其中之一賣場　[賣場連結](https://shopee.tw/%E3%80%90%E6%A8%82%E6%84%8F%E5%89%B5%E5%AE%A2%E5%AE%98%E6%96%B9%E5%BA%97%E3%80%91%E3%80%8A%E9%99%84%E7%99%BC%E7%A5%A8%E3%80%8BLeonardo-R3-%E9%96%8B%E7%99%BC%E6%9D%BFATMEGA32U4-%E5%AE%98%E6%96%B9%E9%96%8B%E6%BA%90%E7%89%88-%E9%80%81%E5%82%B3%E8%BC%B8%E7%B7%9A-%E9%81%A9%E7%94%A8Arduino-i.139069730.2487454747) 此賣場與本軟體無任何相關合作，如有消費問題請洽賣家
+
+
+
+
+
 
 ---
 ## 服務條款與免責聲明
