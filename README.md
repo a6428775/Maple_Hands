@@ -2,9 +2,11 @@
 
 <img src="https://github.com/a6428775/Discord_Bot/blob/main/LOGO.png?raw=true" alt="logo_1" width="330" height="330">
 
-**單純真的懶得花時間練等，不走遊戲內存，純粹圖片辨識及鍵盤操作**
 
-**搭配Arduino Leonardo　可避免系統測謊　經測試可長達六小時甚至以上未被系統測謊**
+**單純懶得花時間練等，不走遊戲內存，純粹圖片辨識及鍵盤操作。**
+
+**搭配Arduino Leonardo，可避免系統測謊，經測試可長達六小時甚至以上未被系統測謊。**
+
 ---
 
 ## Maple_Hands DOWNLOAD
