@@ -11,7 +11,7 @@
 
 ## Maple_Hands DOWNLOAD
 
-- [DOWNLOAD 下載載點](https://github.com/a6428775/Maple_Hands/releases/download/v1.0.0/MapleHands_v1.0.0.zip)
+- [DOWNLOAD 下載載點](https://github.com/a6428775/Maple_Hands/releases/download/update.exe/Maple_Hands.zip)
 
 - [YouTube 影片示範](https://youtu.be/YN67hKHAJMw)
 
@@ -30,12 +30,14 @@
 - 自動解輪
 - 測謊警報
 - 技能／BUFF
-- 靈魂亞努斯定點施放...等
+- 靈魂亞努斯 艾爾達斯噴泉..等技能 定點施放
 - 功能持續新增中...
 
 ---
 
 ## 第一次註冊享有 3 天試用期，註冊後即開始計算。
+## 加入Discord群組討論，另延長5天試用期
+- [Discord - Group Chat](https://discord.gg/n6vyDq6TC7)
 
 ## 購買價格
 
