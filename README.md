@@ -38,12 +38,11 @@
 ---
 
 ## 第一次註冊享有 12 小時試用期，註冊後即開始計算。
-## 加入Discord群組輸入註冊帳號，延長2天試用期。
 - [Discord - Group Chat](https://discord.gg/n6vyDq6TC7)
 
 ## 購買價格
 
-**NT$ 199/月**
+**NT$ 199 or 399/月**
 
 - 請詳閱檔案內使用說明，以及試用成效，確認符合預期再購買。
 - 購買後請立即聯絡管理員以開通帳號權限（[官方 LINE](https://lin.ee/ln2mZ4Y) 或 [Discord 群](https://discord.gg/n6vyDq6TC7)）。
